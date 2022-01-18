@@ -1,0 +1,32 @@
+C:\Users\dante\source\repos\laba3\laba3\bin\Debug\netcoreapp3.1\laba3.exe
+C:\Users\dante\source\repos\laba3\laba3\bin\Debug\netcoreapp3.1\laba3.deps.json
+C:\Users\dante\source\repos\laba3\laba3\bin\Debug\netcoreapp3.1\laba3.runtimeconfig.json
+C:\Users\dante\source\repos\laba3\laba3\bin\Debug\netcoreapp3.1\laba3.runtimeconfig.dev.json
+C:\Users\dante\source\repos\laba3\laba3\bin\Debug\netcoreapp3.1\laba3.dll
+C:\Users\dante\source\repos\laba3\laba3\bin\Debug\netcoreapp3.1\laba3.pdb
+C:\Users\dante\source\repos\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.csproj.AssemblyReference.cache
+C:\Users\dante\source\repos\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.Form1.resources
+C:\Users\dante\source\repos\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.csproj.GenerateResource.cache
+C:\Users\dante\source\repos\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dante\source\repos\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.AssemblyInfoInputs.cache
+C:\Users\dante\source\repos\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.AssemblyInfo.cs
+C:\Users\dante\source\repos\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.csproj.CoreCompileInputs.cache
+C:\Users\dante\source\repos\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.dll
+C:\Users\dante\source\repos\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.pdb
+C:\Users\dante\source\repos\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.genruntimeconfig.cache
+C:\Users\fanat\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\netcoreapp3.1\laba3.exe
+C:\Users\fanat\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\netcoreapp3.1\laba3.deps.json
+C:\Users\fanat\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\netcoreapp3.1\laba3.runtimeconfig.json
+C:\Users\fanat\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\netcoreapp3.1\laba3.runtimeconfig.dev.json
+C:\Users\fanat\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\netcoreapp3.1\laba3.dll
+C:\Users\fanat\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\netcoreapp3.1\laba3.pdb
+C:\Users\fanat\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.csproj.AssemblyReference.cache
+C:\Users\fanat\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.Form1.resources
+C:\Users\fanat\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.csproj.GenerateResource.cache
+C:\Users\fanat\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanat\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.AssemblyInfoInputs.cache
+C:\Users\fanat\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.AssemblyInfo.cs
+C:\Users\fanat\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.csproj.CoreCompileInputs.cache
+C:\Users\fanat\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.dll
+C:\Users\fanat\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.pdb
+C:\Users\fanat\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.genruntimeconfig.cache
